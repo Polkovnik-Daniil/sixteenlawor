@@ -1,0 +1,7 @@
+D:\Даник\Учеба\3 семестр\ООП\Лабораторные работы\16\Project1\Project1\bin\Debug\Project1.exe.config
+D:\Даник\Учеба\3 семестр\ООП\Лабораторные работы\16\Project1\Project1\bin\Debug\Project1.exe
+D:\Даник\Учеба\3 семестр\ООП\Лабораторные работы\16\Project1\Project1\bin\Debug\Project1.pdb
+D:\Даник\Учеба\3 семестр\ООП\Лабораторные работы\16\Project1\Project1\obj\Debug\Project1.csprojAssemblyReference.cache
+D:\Даник\Учеба\3 семестр\ООП\Лабораторные работы\16\Project1\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+D:\Даник\Учеба\3 семестр\ООП\Лабораторные работы\16\Project1\Project1\obj\Debug\Project1.exe
+D:\Даник\Учеба\3 семестр\ООП\Лабораторные работы\16\Project1\Project1\obj\Debug\Project1.pdb
